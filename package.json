@@ -1,0 +1,8 @@
+{
+  "name": "js-pdx3kf",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.7.5"
+  }
+}
